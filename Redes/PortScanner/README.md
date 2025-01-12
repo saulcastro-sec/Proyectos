@@ -19,8 +19,8 @@ Este proyecto es un escáner de puertos básico escrito en Python que permite ve
 
 ## Ejemplo de uso
   $ python3 port_scanner.py  
-  Introduce la dirección IP para escanear: 192.168.1.1  
-  Introduce el rango de puertos (ejemplo: 20-80): 22-80
+     Introduce la dirección IP para escanear: 192.168.1.1  
+     Introduce el rango de puertos (ejemplo: 20-80): 22-80
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
